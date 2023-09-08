@@ -13,3 +13,10 @@ This is a development documentation for Time Tracker.
   - send emails through [MailHog](https://xn--kinsta-o53e.com/blog/mailhog/) on development environment
 
   - [Inversify doc](https://github.com/inversify/InversifyJS#step-1-declare-your-interfaces-and-types)
+
+  -  #### controller class
+    routing, successful response, call service class  
+  - #### service class
+   business logic, error response, call repository class
+  - #### Repository class
+  Database hundle
